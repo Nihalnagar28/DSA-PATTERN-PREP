@@ -1,0 +1,23 @@
+class Solution {
+	public:
+	int minMeetingRooms(vector<int> &start, vector<int> &end) {
+		// code here
+		sort(start.begin(), start.end());
+		sort(end.begin(), end.end());
+		int n = start.size();
+		int i = 0, j = 0;
+		int room = 0;
+		int res = 0;
+		while (i<n) {
+			if (start[i]<end[j]) {
+				room++;
+				res = max(res, room);
+				i++;
+			} else {
+				room--;
+				j++;
+			}
+		}
+		return res;
+	}
+};
