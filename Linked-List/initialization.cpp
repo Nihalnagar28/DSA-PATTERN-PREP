@@ -38,6 +38,17 @@ Node* InsertAtEnd(Node * &head,int newval){
     temp->next=newNode;
     return head;
 }
+
+Node * InsertAtPos(Node* &head, int val ,int pos){
+    Node * temp= new Node(val);
+    Node *ptr=head;
+    for(int i=1;i<pos;i++){
+        ptr=ptr->next;
+    }
+    temp->next=ptr->next;
+    ptr->next=temp;
+    return head;
+}
 int main() {
     Node * head = new Node(10);
     head->next=new Node(22);
@@ -48,6 +59,9 @@ cout<<endl;
     print(head);
     cout<<endl;
     InsertAtEnd(head,299);
+    print(head);
+    cout<<endl;
+    InsertAtPos(head,399,3);
     print(head);
     return 0;
 }
