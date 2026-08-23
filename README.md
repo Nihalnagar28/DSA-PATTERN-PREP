@@ -22,6 +22,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0643-maximum-average-subarray-i) |
 ## Quickselect
 |  |
 | ------- |
