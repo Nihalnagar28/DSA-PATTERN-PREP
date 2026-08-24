@@ -18,6 +18,7 @@
 | [0001-two-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0016-3sum-closest) |
 | [0074-search-a-2d-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0347-top-k-frequent-elements) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Matrix
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0643-maximum-average-subarray-i) |
 ## Quickselect
 |  |
@@ -86,4 +89,8 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0016-3sum-closest) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
