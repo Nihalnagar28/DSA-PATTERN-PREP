@@ -43,6 +43,7 @@
 | [0001-two-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0767-reorganize-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,16 +57,19 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0767-reorganize-string](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0767-reorganize-string](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0767-reorganize-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0767-reorganize-string](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0767-reorganize-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +89,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0767-reorganize-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,4 +98,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
