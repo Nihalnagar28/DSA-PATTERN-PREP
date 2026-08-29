@@ -24,6 +24,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0502-ipo) |
 | [0643-maximum-average-subarray-i](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
@@ -59,6 +60,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
@@ -66,6 +68,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0767-reorganize-string) |
 ## String
 |  |
@@ -103,6 +106,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0767-reorganize-string) |
 ## Dynamic Programming
 |  |
