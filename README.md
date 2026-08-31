@@ -26,6 +26,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
@@ -47,6 +48,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0767-reorganize-string) |
 ## Divide and Conquer
 |  |
@@ -63,6 +65,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
@@ -71,6 +74,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0767-reorganize-string) |
 ## String
 |  |
@@ -96,6 +100,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0767-reorganize-string) |
 ## Two Pointers
 |  |
@@ -110,6 +115,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0767-reorganize-string) |
 ## Dynamic Programming
 |  |
