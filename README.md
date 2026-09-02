@@ -12,6 +12,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0024-swap-nodes-in-pairs) |
+| [0509-fibonacci-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -121,4 +122,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0509-fibonacci-number) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
