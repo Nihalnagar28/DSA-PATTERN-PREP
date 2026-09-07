@@ -24,6 +24,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -37,6 +38,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -49,6 +51,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0621-task-scheduler) |
@@ -65,6 +68,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0502-ipo) |
@@ -131,6 +135,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -144,4 +149,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
