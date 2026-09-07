@@ -23,6 +23,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0502-ipo) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0016-3sum-closest) |
+| [0283-move-zeroes](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
 | ------- |
