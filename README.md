@@ -33,6 +33,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0767-reorganize-string) |
+| [0904-fruit-into-baskets](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0904-fruit-into-baskets) |
 ## Quickselect
 |  |
 | ------- |
