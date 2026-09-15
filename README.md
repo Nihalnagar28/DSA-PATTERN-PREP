@@ -5,12 +5,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0024-swap-nodes-in-pairs) |
 | [0509-fibonacci-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0509-fibonacci-number) |
@@ -147,6 +149,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0509-fibonacci-number) |
 ## Memoization
