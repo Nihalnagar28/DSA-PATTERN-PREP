@@ -21,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0016-3sum-closest) |
+| [0039-combination-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0074-search-a-2d-matrix) |
@@ -161,6 +162,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0039-combination-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
