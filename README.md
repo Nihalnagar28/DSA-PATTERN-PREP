@@ -27,6 +27,7 @@
 | [0053-maximum-subarray](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0209-minimum-size-subarray-sum) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0268-missing-number) |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
