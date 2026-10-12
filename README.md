@@ -28,6 +28,7 @@
 | [0054-spiral-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0209-minimum-size-subarray-sum) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
