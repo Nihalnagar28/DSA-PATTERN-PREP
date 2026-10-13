@@ -26,6 +26,7 @@
 | [0039-combination-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0215-kth-largest-element-in-an-array) |
@@ -212,4 +214,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0145-binary-tree-postorder-traversal) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
