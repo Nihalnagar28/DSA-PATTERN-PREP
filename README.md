@@ -24,6 +24,7 @@
 | [0001-two-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0056-merge-intervals) |
@@ -174,6 +175,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0051-n-queens) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -227,4 +229,8 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
