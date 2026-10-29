@@ -20,7 +20,6 @@ public:
         return r1&&r2;
     }
     bool isSymmetric(TreeNode* root) {
-        if(root==NULL)return false;
-        return fun(root->left,root->right);
+        return fun(root,root);
     }
 };
